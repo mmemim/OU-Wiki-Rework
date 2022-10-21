@@ -65,3 +65,17 @@ This phonemizer is not complete. Voicebanks that follow Kasane Teto's English vo
 You can input lyrics in plain English love, plain English + phonetic hint love [l u v] or phonetic hint only [l u v].
 
 You can then use + to break words into syllables, and +*or +~ to extend a sound.
+
+### EN to JA (English to Japanese/"Engrish")
+
+| Input | Reclist | 
+| ------------- | ------------- |
+| Romaji | Japanese CV, CVVC or VCV |
+
+```
+Consonants: b by ch d dh f g gy h hy j k ky l ly m my n ny ng p py r ry s sh t th v w y z zh
+Vowels: a i u e o ay ey oy ow aw
+```
+This phonemizer converts English lyrics to phonemes for Japanese voicebanks. It will automatically adapt to CV, VCV, and CVVC voicebanks.
+You can input lyrics in plain English love, plain English + phonetic hint love [l u v] or phonetic hint only [l u v].
+You can then use + to break words into syllables, and `+*` or `+~` to extend a sound.
