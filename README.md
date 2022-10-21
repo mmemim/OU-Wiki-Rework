@@ -42,7 +42,7 @@ ja vcv
 ### EN ARPA (Arpasing)
 | Input | Reclist | Additional dictionary |
 | ------------- | ------------- | ------------- |
-| Arpabet | Any arpasing reclist | Plugins/arpasing.yaml |
+| Arpabet | [Arpasing](http://utaulanguageresources.weebly.com/arpasing.html) | Plugins/arpasing.yaml |
 
 #### Auxiliary dictionary files:
 You can find an example arpasing.yaml file in Plugins folder. You can add new entries to it.
@@ -79,3 +79,9 @@ Vowels: a i u e o ay ey oy ow aw
 This phonemizer converts English lyrics to phonemes for Japanese voicebanks. It will automatically adapt to CV, VCV, and CVVC voicebanks.
 You can input lyrics in plain English love, plain English + phonetic hint love [l u v] or phonetic hint only [l u v].
 You can then use + to break words into syllables, and `+*` or `+~` to extend a sound.
+
+## French
+### FR CVVC (French CVVC+ Phonemizer)
+| Input | Reclist | Additional dictionary |
+| ------------- | ------------- | ------------- |
+| Mot/fraloids | [Petit Mot](https://simelomad.wixsite.com/crabkids/copie-de-gros-mot) & [Gros Mot](https://simelomad.wixsite.com/crabkids/about-new) & Fraloids | Plugins/arpasing.yaml |
