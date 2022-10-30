@@ -99,7 +99,23 @@ You can input lyrics in plain English love, plain English + phonetic hint love [
 You can then use + to break words into syllables, and `+*` or `+~` to extend a sound.
 
 ## French
+More information on French UTAU, phonetics and phonemizers here.
+
 ### FR CVVC (French CVVC+ Phonemizer)
-| Input | Reclist | Additional dictionary |
+| Input | Reclist | Dictionary |
 | ------------- | ------------- | ------------- |
-| Mot/fraloids | [Petit Mot](https://simelomad.wixsite.com/crabkids/copie-de-gros-mot) & [Gros Mot](https://simelomad.wixsite.com/crabkids/about-new) & Fraloids | Plugins/arpasing.yaml |
+| Mot/Fraloids/Arpabet | [Petit Mot](https://simelomad.wixsite.com/crabkids/copie-de-gros-mot) & [Gros Mot](https://simelomad.wixsite.com/crabkids/about-new) & Fraloids | Dictionaries/cmudict-fr.txt |
+
+
+### FR VCCV (French VCCV m2RUg Phonemizer)
+| Input | Reclist | Dictionary |
+| ------------- | ------------- | ------------- |
+| X-SAMPA (modified) | m2RUg | Dictionaries/cmudict-fr.txt |
+
+
+### FR SPHINX (French CMUSphinx Phonemizer)
+| Input | Reclist |
+| ------------- | ------------- |
+| Arpabet | // |
+
+# ENUNU
